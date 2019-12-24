@@ -2,7 +2,7 @@ package registry
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/manakuro/golang-clean-architecture/interface/controller"
+	"github.com/Icedroid/golang-clean-architecture/interface/controller"
 )
 
 type registry struct {

@@ -3,8 +3,8 @@ package controller
 import (
 	"net/http"
 
-	"github.com/manakuro/golang-clean-architecture/domain/model"
-	"github.com/manakuro/golang-clean-architecture/usecase/interactor"
+	"github.com/Icedroid/golang-clean-architecture/domain/model"
+	"github.com/Icedroid/golang-clean-architecture/usecase/interactor"
 )
 
 type userController struct {

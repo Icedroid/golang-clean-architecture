@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"
-	"github.com/manakuro/golang-clean-architecture/config"
+	"github.com/Icedroid/golang-clean-architecture/config"
 )
 
 func NewDB() *gorm.DB {

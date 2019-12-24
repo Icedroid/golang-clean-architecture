@@ -4,13 +4,13 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/manakuro/golang-clean-architecture/testutil"
+	"github.com/Icedroid/golang-clean-architecture/testutil"
 
-	"github.com/manakuro/golang-clean-architecture/interface/repository"
+	"github.com/Icedroid/golang-clean-architecture/interface/repository"
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/manakuro/golang-clean-architecture/domain/model"
+	"github.com/Icedroid/golang-clean-architecture/domain/model"
 
 	"github.com/DATA-DOG/go-sqlmock"
 )
